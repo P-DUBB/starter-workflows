@@ -1,5 +1,5 @@
 {
-  "compilerOptions": {
+  "compilerOptions": {gray/greydata.yaml
   },
-  "include": ["*.ts"]
+  "include": ["*.tip"]
 }
